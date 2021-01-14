@@ -3,7 +3,7 @@
     "displayName": "Haskell Extension Pack",
     "description": "Popular Visual Studio Code extensions for Haskell",
     "version": "0.0.1",
-    "publisher": "zhengjunyi",
+    "publisher": "mogeko",
     "author": {
         "name": "mogeko",
         "email": "zhengjunyi@live.com"
