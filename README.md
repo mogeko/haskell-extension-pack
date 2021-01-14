@@ -10,7 +10,7 @@ This extension pack packages some of the most popular (and some of my favorite) 
 
 ## Dependencies
 
-[haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter) is a wrapper for [hlint](https://github.com/ndmitchell/hlint).
+[haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter) expects a version of [hlint](https://github.com/ndmitchell/hlint) >= 1.9.1 to be installed and already added to the path.
 
 ## Want to see your extension added?
 
