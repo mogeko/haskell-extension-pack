@@ -1,0 +1,45 @@
+{
+    "name": "haskell-extension-pack",
+    "displayName": "Haskell Extension Pack",
+    "description": "Popular Visual Studio Code extensions for Haskell",
+    "version": "0.0.1",
+    "publisher": "zhengjunyi",
+    "author": {
+        "name": "mogeko",
+        "email": "zhengjunyi@live.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Mogeko/haskell-extension-pack"
+    },
+    "bugs": {
+        "url": "https://github.com/Mogeko/haskell-extension-pack/issues"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#22172A",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "keywords": [
+        "haskell",
+        "cabal",
+        "language",
+        "literate haskell",
+        "lsp",
+        "stack",
+        "debugger",
+        "hlint"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "haskell.haskell",
+        "justusadam.language-haskell",
+        "hoovercj.haskell-linter"
+    ]
+}
